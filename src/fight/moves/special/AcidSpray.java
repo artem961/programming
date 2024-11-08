@@ -1,4 +1,4 @@
-package main.java.lab2.moves.special;
+package fight.moves.special;
 
 import ru.ifmo.se.pokemon.*;
 

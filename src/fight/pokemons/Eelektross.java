@@ -1,9 +1,9 @@
-package main.java.lab2.pokemons;
+package fight.pokemons;
 
-import main.java.lab2.moves.special.AcidSpray;
-import main.java.lab2.moves.special.Acid;
-import main.java.lab2.moves.special.ChargeBeam;
-import main.java.lab2.moves.status.ThunderWave;
+import fight.moves.special.AcidSpray;
+import fight.moves.special.Acid;
+import fight.moves.special.ChargeBeam;
+import fight.moves.status.ThunderWave;
 import ru.ifmo.se.pokemon.Type;
 
 public final class Eelektross extends Eelektrik {

@@ -1,10 +1,10 @@
-package main.java.lab2.pokemons;
+package fight.pokemons;
 
 
-import main.java.lab2.moves.physical.DoubleEdge;
-import main.java.lab2.moves.physical.RockSlide;
-import main.java.lab2.moves.physical.ShadowClaw;
-import main.java.lab2.moves.status.Rest;
+import fight.moves.physical.DoubleEdge;
+import fight.moves.physical.RockSlide;
+import fight.moves.physical.ShadowClaw;
+import fight.moves.status.Rest;
 import ru.ifmo.se.pokemon.Type;
 
 public class Bewear extends Stufful{

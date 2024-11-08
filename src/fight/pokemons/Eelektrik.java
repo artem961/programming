@@ -1,12 +1,11 @@
-package main.java.lab2.pokemons;
+package fight.pokemons;
 
-import main.java.lab2.moves.special.AcidSpray;
-import main.java.lab2.moves.special.ChargeBeam;
-import main.java.lab2.moves.status.ThunderWave;
-import ru.ifmo.se.pokemon.Pokemon;
+import fight.moves.special.AcidSpray;
+import fight.moves.special.ChargeBeam;
+import fight.moves.status.ThunderWave;
 import ru.ifmo.se.pokemon.Type;
 
-public class Eelektrik extends Pokemon {
+public class Eelektrik extends Tynamo {
     public Eelektrik(String name, int level) {
         super(name, level);
         this.setType(Type.ELECTRIC);

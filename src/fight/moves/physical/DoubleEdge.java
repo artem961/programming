@@ -1,4 +1,4 @@
-package main.java.lab2.moves.physical;
+package fight.moves.physical;
 
 import ru.ifmo.se.pokemon.PhysicalMove;
 import ru.ifmo.se.pokemon.Pokemon;
@@ -15,7 +15,7 @@ public final class DoubleEdge extends PhysicalMove {
 
     @Override
     protected void applySelfDamage(Pokemon pokemon, double damage) {
-        pokemon.setMod(Stat.HP, (int) -(damage / 3));
+        pokemon.setMod(Stat.HP, (int)(damage / 3));
     }
 
     @Override

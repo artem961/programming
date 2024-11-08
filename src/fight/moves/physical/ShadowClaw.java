@@ -1,6 +1,5 @@
-package main.java.lab2.moves.physical;
+package fight.moves.physical;
 
-import ru.ifmo.se.pokemon.Effect;
 import ru.ifmo.se.pokemon.PhysicalMove;
 import ru.ifmo.se.pokemon.Pokemon;
 import ru.ifmo.se.pokemon.Type;

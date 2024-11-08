@@ -1,8 +1,8 @@
-package main.java.lab2.pokemons;
+package fight.pokemons;
 
-import main.java.lab2.moves.physical.DoubleEdge;
-import main.java.lab2.moves.physical.RockSlide;
-import main.java.lab2.moves.status.Rest;
+import fight.moves.physical.DoubleEdge;
+import fight.moves.physical.RockSlide;
+import fight.moves.status.Rest;
 import ru.ifmo.se.pokemon.Pokemon;
 import ru.ifmo.se.pokemon.Type;
 

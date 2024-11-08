@@ -1,11 +1,11 @@
-package main.java.lab2.pokemons;
+package fight.pokemons;
 
-import main.java.lab2.moves.special.ChargeBeam;
-import main.java.lab2.moves.status.ThunderWave;
+import fight.moves.special.ChargeBeam;
+import fight.moves.status.ThunderWave;
 import ru.ifmo.se.pokemon.Pokemon;
 import ru.ifmo.se.pokemon.Type;
 
-public final class Tynamo extends Pokemon {
+public class Tynamo extends Pokemon {
     public Tynamo(String name, int level){
         super(name, level);
         this.setType(Type.ELECTRIC);

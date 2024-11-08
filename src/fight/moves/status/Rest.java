@@ -1,4 +1,4 @@
-package main.java.lab2.moves.status;
+package fight.moves.status;
 
 import ru.ifmo.se.pokemon.Effect;
 import ru.ifmo.se.pokemon.StatusMove;

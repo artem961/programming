@@ -1,11 +1,11 @@
-package main.java.lab2.pokemons;
+package fight.pokemons;
 
 import ru.ifmo.se.pokemon.Pokemon;
 import ru.ifmo.se.pokemon.Type;
-import main.java.lab2.moves.special.ChargeBeam;
-import main.java.lab2.moves.special.MoonBlast;
-import main.java.lab2.moves.special.EnergyBall;
-import main.java.lab2.moves.special.Extrasensory;
+import fight.moves.special.ChargeBeam;
+import fight.moves.special.MoonBlast;
+import fight.moves.special.EnergyBall;
+import fight.moves.special.Extrasensory;
 
 public final class TapuBulu extends Pokemon {
     public TapuBulu(String name, int level) {
